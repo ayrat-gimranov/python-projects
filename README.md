@@ -6,6 +6,8 @@ Author:  Ayrat Gimranov
 >python3 -m pip install -r requirements.txt
 
 - Project 1 (IF LOGIC):
+  - This is a simple number guessing game that utilizes IF ELSE conditional stamements
+  - run ```python3 guess_number.py```
 ---------------------
 - Project 2 (PRG) - Ghostbusters game
   - This game allows to move around in a city, catch ghosts and bring them back to a headquarters for containment
