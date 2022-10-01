@@ -1,4 +1,3 @@
-# test
 #!/usr/bin/python3
 """Ghost Busters - a game adapted from Alta3 lab"""
 
